@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MrJua/Documents/C/SegundoParcial/Ahorcado/funciones.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/MrJua/Documents/C/SegundoParcial/Ahorcado/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+funciones.h
+C:/Users/MrJua/Documents/C/SegundoParcial/Ahorcado/funciones.h
+

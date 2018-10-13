@@ -1,0 +1,3 @@
+C:/Users/MrJua/Documents/C/SegundoParcial/Ahorcado/cmake-build-debug/CMakeFiles/Ahorcado.dir
+C:/Users/MrJua/Documents/C/SegundoParcial/Ahorcado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MrJua/Documents/C/SegundoParcial/Ahorcado/cmake-build-debug/CMakeFiles/rebuild_cache.dir
